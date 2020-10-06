@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Druk Wide';
-    src: url('../fonts/Druk-WideMedium.eot');
-    src: url('../fonts/Druk-WideMedium.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Druk-WideMedium.woff2') format('woff2'),
-        url('../fonts/Druk-WideMedium.woff') format('woff'),
-        url('../fonts/Druk-WideMedium.ttf') format('truetype'),
-        url('../fonts/Druk-WideMedium.svg#Druk-WideMedium') format('svg');
+    src: url('/style/fonts/Druk-WideMedium.eot');
+    src: url('/style/fonts/Druk-WideMedium.eot?#iefix') format('embedded-opentype'),
+        url('/style/fonts/Druk-WideMedium.woff2') format('woff2'),
+        url('/style/fonts/Druk-WideMedium.woff') format('woff'),
+        url('/style/fonts/Druk-WideMedium.ttf') format('truetype'),
+        url('/style/fonts/Druk-WideMedium.svg#Druk-WideMedium') format('svg');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'Gilroy';
-    src: url('../fonts/Gilroy-Light.eot');
-    src: url('../fonts/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Gilroy-Light.woff2') format('woff2'),
-        url('../fonts/Gilroy-Light.woff') format('woff'),
-        url('../fonts/Gilroy-Light.ttf') format('truetype'),
-        url('../fonts/Gilroy-Light.svg#Gilroy-Light') format('svg');
+    src: url('/style/fonts/Gilroy-Light.eot');
+    src: url('/style/fonts/Gilroy-Light.eot?#iefix') format('embedded-opentype'),
+        url('/style/fonts/Gilroy-Light.woff2') format('woff2'),
+        url('/style/fonts/Gilroy-Light.woff') format('woff'),
+        url('/style/fonts/Gilroy-Light.ttf') format('truetype'),
+        url('/style/fonts/Gilroy-Light.svg#Gilroy-Light') format('svg');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
